@@ -15,11 +15,7 @@
 </table>
 </div>
 
-
-
 ## About me
-
-
 
 
 ## News & Events
@@ -27,7 +23,6 @@
 
 
 ## Datasets
-
 
 
 ## Selected publications
