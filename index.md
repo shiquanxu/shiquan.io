@@ -1,12 +1,18 @@
 <div>
-<table border="0"><tr><td width="25%">
-<img src="/jiawei.jpg" alt="Wei Jia" width="120px" height="160px" /></td>
-<td width="75%"><p><a href="https://jiawei16888.github.io"><b>Wei Jia</b></a> (<span lang="zh-Hans">贾伟</span>), PhD., Associate Professor<br />
-<a href="http://ci.hfut.edu.cn/">School of Computer Science and Information Engineering</a><br />
-<a href="http://ci.hfut.edu.cn/">School of Artificial Intelligence</a><br />
-<a href="http://hfut.edu.cn/">Hefei University of Technology, Hefei, China</a><br /><br />
-<b>Email</b>: <a href="jiawei@hfut.edu.cn ">jiawei@hfut.edu.cn</a>
-</td></tr></table>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Wei Jia (贾伟), PhD., Associate Professor</b></p>
+      <p><b>School of Computer Science and Information Engineering</b></p>
+      <p><b>School of Artificial Intelligence</b></p>
+      <p><b>Hefei University of Technology, Hefei, China/b></p>
+      <b>Email</b>: <a href="jiawei@hfut.edu.cn ">jiawei@hfut.edu.cn</a>
+    </td>
+    <td width="25%">
+      <img src="/jiawei.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 </div>
 
 
