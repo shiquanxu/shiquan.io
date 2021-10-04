@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/jiawei.jpg" width="120px" height="160px">
+      <img src="./jiawei.jpg" alt="WeiJia" width="120px" height="160px" />&nbsp;</td>
     </td>
     <td width="75%">
       <a href="https://jiawei16888.github.io"><b>Wei Jia</b></a> (<span lang="zh-Hans">贾伟</span>), PhD., Associate Professor<br />
@@ -18,6 +18,7 @@
 </div>
 
 ## About me
+***
 
 
 ## News & Events
