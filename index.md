@@ -1,6 +1,6 @@
 <div>
 <table border="0"><tr><td width="25%">
-<img src="/jiawei.png" alt="Wei Jia" width="120px" height="160px" /></td>
+<img src="/jiawei.jpg" alt="Wei Jia" width="120px" height="160px" /></td>
 <td width="75%"><p><a href="https://jiawei16888.github.io"><b>Wei Jia</b></a> (<span lang="zh-Hans">贾伟</span>), PhD., Associate Professor<br />
 <a href="http://ci.hfut.edu.cn/">School of Computer Science and Information Engineering</a><br />
 <a href="http://ci.hfut.edu.cn/">School of Artificial Intelligence</a><br />
