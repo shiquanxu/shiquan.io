@@ -12,7 +12,6 @@
       <a href="http://hfut.edu.cn/">Hefei University of Technology, Hefei, China</a><br /><br />
       <b>Email</b>: <a href="jiawei@hfut.edu.cn ">jiawei@hfut.edu.cn</a>
     </td>
-
   </tr>
 </table>
 </div>
